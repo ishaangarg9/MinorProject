@@ -92,7 +92,3 @@ The project demonstrates:
 ## Acknowledgments
 - Faculty guidance and support.
 - Firebase documentation and Arduino community.
-
-## License
-This project is licensed under the MIT License.
-
